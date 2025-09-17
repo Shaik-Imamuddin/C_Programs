@@ -1,0 +1,15 @@
+Q1.Write a C Program to find area of Rectangle
+Q2.Write a C Program to find area of Square
+Q3.Write a C Program to find area of Triangle
+Q4.Write a C Program to find area of Circle
+Q5.Write a C Program to find the distance between two points
+Q6.Write a C Program to calculate Fahrenheit to Celsius
+Q7.Write a C Program to calculate Celsius to Fahrenheit
+Q8.Write a C Program to find Perimeter of a Square
+Q9.Write a C Program to find Perimeter of a Rectangle
+Q10.Write a C Program to find Perimeter of a Triangle
+Q11.Write a C Program to find Circumference of a Circle
+Q12.Write a C Program to find Surface Area, Volume, and Perimeter of a Cube
+Q13.Write a C Program to find Surface Area and Volume of a Cuboid
+Q14.Write a C Program to find Surface Area and Volume of a Sphere
+Q15.Write a C Program to find Surface Area and Volume of a Cylinder
