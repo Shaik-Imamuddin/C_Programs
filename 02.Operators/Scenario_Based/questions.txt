@@ -1,0 +1,15 @@
+Q1.Write a C Program to print Price After Discount
+Q2.Write a C Program to Convert Minutes to Seconds
+Q3.Write a C Program to Split the Bill Among 3 Friends
+Q4.Write a C Program to Calculate the Distance Travelled
+Q5.Write a C Program to Convert Kilometers to Meters
+Q6.Write a C Program to Convert Bytes to bits
+Q7.Write a C Program to Distribute Candies Equally Among People
+Q8.Write a C Program to Calculate Total Cakes Made
+Q9.Write a C Program to Calculate Simple Interest
+Q10.Write a C Program to calculate Salary of Employee
+Q11.Write a C Program to calculate selling price given cost price and profit.
+Q12.Write a C Program to calculate cost price given selling price and loss.
+Q13.Write a C Program to Mangoes Discount (Buy 3 Get 1 Free) Find Total Amount need to pay
+Q14.Write a C Program to Pens Discount (Buy 5, Pay for 3) Find Total Amount need to pay
+Q15.Write a C Program to Currency Notes from ATM
