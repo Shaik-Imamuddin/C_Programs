@@ -1,0 +1,23 @@
+Q1. Write a C program to print the factorial of a given number N.
+Q2. Write a C program to calculate the sum of digits of a given number.
+Q3. Write a C program to count the number of digits in a given number.
+Q4. Write a C program to print the product of digits of a given number.
+Q5. Write a C program to reverse a given number.
+Q6. Write a C program to check whether a number is palindrome or not.
+Q7. Write a C program to check whether a number is Armstrong number or not.
+Q8. Write a C program to find the GCD of two numbers.
+Q9. Write a C program to find the LCM of two numbers.
+Q10. Write a C program to check whether a given number is prime or not.
+Q11. Write a C program to print all factors of a given number.
+Q12. Write a C program to find the sum of all factors of a given number.
+Q13. Write a C program to check whether a given integer is a perfect square or not.
+Q14. Write a C program to check whether a given number is a Strong Number or not.
+Q15. Write a C program to check whether a given number is a Perfect Number or not.
+Q16. Write a C program to check whether a given number is a Neon Number or not.
+Q17. Write a C program to check whether a given number is a Harshad Number or not.
+Q18. Write a C program to check whether a given number is a Buzz Number or not.
+Q19. Write a C program to check whether a given number is an Automorphic Number or not.
+Q20. Write a C program to check whether a given number is a Magic Number or not.
+Q21. Write a C program to check whether a given integer is a power of 2 or not.
+Q22. Write a C program to multiply two numbers without using * operator.
+Q23. Write a C program to find N power of M (Exponentiation) without using predefined function.
