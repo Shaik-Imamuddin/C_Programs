@@ -1,0 +1,10 @@
+Q1. Write a C program to print all the English alphabets in uppercase.
+Q2. Write a C program to print all the English alphabets in lowercase.
+Q3. Write a C program to print lowercase English alphabets in reverse order.
+Q4. Write a C program to print English alphabets that lie between two given alphabets.
+Q5. Write a C program to print vowels and consonants separately from alphabets
+Q6. Write a C program to print ASCII values from A-Z.
+Q7. Write a C program to count the number of 1s and 0s in a binary number.
+Q8. Write a C program to convert decimal to binary number.
+Q9. Write a C program to convert binary to decimal number.
+Q10. Write a C program to convert a charecter from uppercase to lowercase using ASCII Values.
